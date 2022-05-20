@@ -15,7 +15,7 @@ int main()
             }
         }
     }
-    printf("Printing sorted array\n");
+    printf("Bubble Sorted array\n");
     for (int i = 0; i < 10; i++)
     {
         printf("%d ", arr[i]);
